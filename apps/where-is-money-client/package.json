@@ -1,0 +1,23 @@
+{
+  "name": "where-is-money-client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "*",
+    "@react-native/metro-config": "*",
+    "@react-navigation/native": "*",
+    "@react-navigation/native-stack": "*",
+    "@reduxjs/toolkit": "*",
+    "@testing-library/jest-native": "*",
+    "metro-config": "*",
+    "react": "*",
+    "react-hook-form": "*",
+    "react-native": "*",
+    "react-native-indicators": "*",
+    "react-native-reanimated": "*",
+    "react-native-safe-area-context": "^4.7.1",
+    "react-native-screens": "^3.24.0",
+    "react-redux": "*",
+    "axios": "*"
+  }
+}
